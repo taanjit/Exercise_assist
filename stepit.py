@@ -5,7 +5,7 @@ df = pd.dataframe()
 
 
 import numpy as np
-import cv2
+import Image
 
 
 
