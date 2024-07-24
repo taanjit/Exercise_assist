@@ -5,7 +5,7 @@ df = pd.dataframe()
 
 
 import numpy as np
-import Image
+import PIL
 
 
 
