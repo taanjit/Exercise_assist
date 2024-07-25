@@ -1,11 +1,8 @@
-import os
-import pandas as pd
-
-df = pd.dataframe()
-
 
 import numpy as np
-import PIL
 
+A=np.array([1,2,3])
+B=np.array([3,2,1])
 
+print(f'{A}+{B}={A+B}')
 
